@@ -18,7 +18,7 @@ app.use((req, res, next) => {
 app.use(cors());
 app.use(express.json());
 
-app.get("/health", (req, res) => {
+app.get("/", (req, res) => {
   res.status(200).json({
     success: true,
     message: "Server is running",
