@@ -4,10 +4,9 @@
 
 | Item | Link |
 |---|---|
-| GitHub Repository | `<ADD REPO LINK HERE>` |
-| Live Frontend (Deployed) | `<ADD DEPLOYED FRONTEND LINK HERE>` |
-| Live Backend / API (Deployed) | `<ADD DEPLOYED BACKEND LINK HERE>` |
-| Demo Video (if any) | `<ADD LINK HERE>` |
+| GitHub Repository | `https://github.com/rockyhans/blackcoffer_submission` |
+| Live Frontend (Deployed) | `https://blackcoffer-submission-6fyaia3ty.vercel.app/` |
+| Live Backend / API (Deployed) | `https://blackcoffer-submission.onrender.com` |
 
 **Submitted by:** Danish Rizwan
 **Stack Used:** MERN (MongoDB, Express.js, React + Vite, Node.js)
