@@ -1,0 +1,15 @@
+export const FILTER_FIELDS = [
+  "end_year",
+  "start_year",
+  "topic",
+  "sector",
+  "region",
+  "pestle",
+  "source",
+  "country",
+  "city",
+  "intensity",
+  "likelihood",
+  "relevance",
+  "impact",
+];
