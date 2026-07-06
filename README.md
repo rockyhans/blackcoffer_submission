@@ -4,9 +4,9 @@
 
 | Item | Link |
 |---|---|
-| GitHub Repository | `https://github.com/rockyhans/blackcoffer_submission` |
-| Live Frontend (Deployed) | `https://blackcoffer-submission-6fyaia3ty.vercel.app/` |
-| Live Backend / API (Deployed) | `https://blackcoffer-submission.onrender.com` |
+| GitHub Repository | [blackcoffer_submission](https://github.com/rockyhans/blackcoffer_submission) |
+| Live Frontend (Deployed) | [View Frontend](https://blackcoffer-submission-6fyaia3ty.vercel.app/) |
+| Live Backend / API (Deployed) | [View Backend](https://blackcoffer-submission.onrender.com/) |
 
 **Submitted by:** Danish Rizwan
 **Stack Used:** MERN (MongoDB, Express.js, React + Vite, Node.js)
